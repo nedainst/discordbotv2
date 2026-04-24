@@ -1,0 +1,40 @@
+{
+  "colors": {
+    "primary": "#5865F2",
+    "success": "#57F287",
+    "warning": "#FEE75C",
+    "danger": "#ED4245",
+    "info": "#5865F2",
+    "purple": "#EB459E",
+    "blurple": "#5865F2"
+  },
+  "emojis": {
+    "success": "✅",
+    "error": "❌",
+    "warning": "⚠️",
+    "info": "ℹ️",
+    "loading": "⏳",
+    "moderation": "🛡️",
+    "ticket": "🎫",
+    "giveaway": "🎉",
+    "poll": "📊",
+    "star": "⭐",
+    "crown": "👑",
+    "member": "👤",
+    "role": "🏷️",
+    "channel": "📝",
+    "calendar": "📅",
+    "link": "🔗",
+    "trash": "🗑️",
+    "edit": "✏️",
+    "send": "📤",
+    "lock": "🔒",
+    "unlock": "🔓"
+  },
+  "defaults": {
+    "embedColor": "#5865F2",
+    "footerText": "Discord Essentials Bot",
+    "ticketCategoryName": "📩 Tickets",
+    "giveawayUpdateInterval": 60000
+  }
+}
